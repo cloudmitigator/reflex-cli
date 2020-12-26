@@ -1,7 +1,7 @@
 alabaster==0.7.12
 Babel==2.8.0
 certifi==2020.6.20
-chardet==3.0.4
+chardet==4.0.0
 click==7.1.2
 Deprecated==1.2.10
 docutils==0.16
