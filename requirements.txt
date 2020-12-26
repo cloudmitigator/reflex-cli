@@ -6,7 +6,7 @@ idna==2.10
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 prompt-toolkit==1.0.14
-PyGithub==1.53
+PyGithub==1.54.1
 Pygments==2.7.1
 pyhcl==0.4.4
 PyInquirer==1.0.3
