@@ -12,7 +12,7 @@ pyhcl==0.4.4
 PyInquirer==1.0.3
 PyJWT==1.7.1
 PyYAML==5.3.1
-regex==2020.9.27
+regex==2020.11.13
 requests==2.24.0
 six==1.15.0
 urllib3==1.25.10
