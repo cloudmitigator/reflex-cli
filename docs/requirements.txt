@@ -18,7 +18,7 @@ pyhcl==0.4.4
 PyInquirer==1.0.3
 PyJWT==1.7.1
 pyparsing==2.4.7
-pytz==2020.1
+pytz==2020.5
 PyYAML==5.3.1
 regex==2020.9.27
 requests==2.24.0
