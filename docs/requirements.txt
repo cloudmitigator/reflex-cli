@@ -10,7 +10,7 @@ imagesize==1.2.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 packaging==20.4
-pbr==5.5.0
+pbr==5.5.1
 prompt-toolkit==1.0.14
 PyGithub==1.53
 Pygments==2.7.1
