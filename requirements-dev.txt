@@ -17,6 +17,6 @@ pathspec==0.8.0
 pre-commit==2.7.1
 pylint==2.6.0
 toml==0.10.1
-typed-ast==1.4.1
+typed-ast==1.4.2
 virtualenv==20.0.23
 zipp==3.1.0
