@@ -5,7 +5,7 @@ chardet==3.0.4
 click==7.1.2
 Deprecated==1.2.10
 docutils==0.16
-idna==2.10
+idna==3.1
 imagesize==1.2.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
