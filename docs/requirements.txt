@@ -24,7 +24,7 @@ regex==2020.9.27
 requests==2.24.0
 six==1.15.0
 snowballstemmer==2.0.0
-Sphinx==3.2.1
+Sphinx==3.4.3
 sphinx-click==2.5.0
 sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-devhelp==1.0.2
