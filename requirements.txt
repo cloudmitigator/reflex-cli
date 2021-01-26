@@ -15,6 +15,6 @@ PyYAML==5.3.1
 regex==2020.9.27
 requests==2.24.0
 six==1.15.0
-urllib3==1.25.10
+urllib3==1.26.3
 wcwidth==0.2.5
 wrapt==1.12.1
